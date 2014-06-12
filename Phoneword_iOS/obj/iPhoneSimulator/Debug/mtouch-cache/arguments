@@ -1,0 +1,27 @@
+# Version: 7.2.3.39 (fc6f56b)
+# [first argument, ignore] # /Users/Administrator/Projects/Phoneword/Phoneword_iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/Administrator/Projects/Phoneword/Phoneword_iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/Administrator/Projects/Phoneword/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.app \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/Administrator/Projects/Phoneword/Phoneword_iOS/bin/iPhoneSimulator/Debug/Phoneword_iOS.exe \

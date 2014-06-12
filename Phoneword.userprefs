@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Phoneword/PhoneTranslator.cs">
+    <Files>
+      <File FileName="Phoneword_Droid/Resources/values/Strings.xml" Line="5" Column="34" />
+      <File FileName="Phoneword_Droid/CallHistoryActivity.cs" Line="3" Column="1" />
+      <File FileName="Phoneword_Droid/MainActivity.cs" Line="73" Column="5" />
+      <File FileName="Phoneword/PhoneTranslator.cs" Line="5" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Phoneword__Droid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="04b751212523c0cb" />
+</Properties>
