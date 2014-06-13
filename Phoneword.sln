@@ -43,6 +43,6 @@ Global
 		{B88C0C7F-CB14-4C99-BFC1-10C49A7031B7}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Phoneword_Droid\Phoneword_Droid.csproj
+		StartupItem = Phoneword_iOS\Phoneword_iOS.csproj
 	EndGlobalSection
 EndGlobal
